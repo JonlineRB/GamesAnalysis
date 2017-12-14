@@ -1,0 +1,17 @@
+  1. Background: how the game came to be, and what it's foundations are.
+
+    Brief summary of the smash bros. franchise, the genre it defined, and the smash clones scene.
+    Enter: Dan Fornace, the state of smash & clones during the development and release of rivals of Aether.
+
+    2. The game itself: in depth analysis of game content and mechanics.
+
+    Game mechanics, with an emphasis on the similarities from, and differences to smash.
+    Art choices: Why the pixel art may be a fitting choice to the genre, the choice of music to go along with it.
+    Game modes: From handling the narrative of such a game to the refined online features, compared to the smash series.
+    Characters: how does the game handle a genre which typically features a roster of all star characters.
+
+    3. The meta: all around the game itself.
+
+    Community: How much traction has the game established? How does it fare against it's competitors? Quantifiable measurements
+    Competitive Scene: Size, Growth, Health, Streaming, Saltiness. How many competitive players has the game attracted from the smash scene?
+    Reception: How well was the game initially received? How have it's following versions been doing in comparison?
