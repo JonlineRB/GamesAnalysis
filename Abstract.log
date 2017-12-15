@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.29)  12 DEC 2017 23:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.29)  14 DEC 2017 19:41
 entering extended mode
 **Abstract.tex
 (Abstract.tex
@@ -58,7 +58,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--11
 {C:/Users/jjjoo/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 ! Undefined control sequence.
 l.12 \chapter
-             {Introduction}
+             {Introduction}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -80,9 +80,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--30
 
  []
 
-[2]
+[2] [3]
+! Undefined control sequence.
+l.32 \chapter
+             {Analysis}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 No file Abstract.bbl.
-[3] (Abstract.aux) ) 
+[4] (Abstract.aux) ) 
 Here is how much of TeX's memory you used:
  296 strings out of 493673
  3337 string characters out of 3141530
@@ -93,9 +102,9 @@ Here is how much of TeX's memory you used:
  21i,4n,19p,613b,107s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/cm/cmr10.pfb>
-Output written on Abstract.pdf (3 pages, 29094 bytes).
+Output written on Abstract.pdf (4 pages, 30281 bytes).
 PDF statistics:
- 16 PDF objects out of 1000 (max. 8388607)
+ 19 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
