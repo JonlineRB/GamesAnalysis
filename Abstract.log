@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.29)  14 DEC 2017 19:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.29)  18 DEC 2017 23:56
 entering extended mode
 **Abstract.tex
 (Abstract.tex
@@ -38,10 +38,16 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 6.
 
 ! Undefined control sequence.
-l.6 \chapter
-            {Abstract}\\
+l.6 $  $\chapter
+                {Abstract}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -90,21 +96,36 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--47
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
 No file Abstract.bbl.
-[4] (Abstract.aux) ) 
+[5] (Abstract.aux) ) 
 Here is how much of TeX's memory you used:
- 296 strings out of 493673
- 3337 string characters out of 3141530
- 57536 words of memory out of 3000000
- 3725 multiletter control sequences out of 15000+200000
- 3940 words of font info for 15 fonts, out of 3000000 for 9000
+ 313 strings out of 493673
+ 3529 string characters out of 3141530
+ 58536 words of memory out of 3000000
+ 3736 multiletter control sequences out of 15000+200000
+ 6379 words of font info for 23 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 21i,4n,19p,613b,107s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 21i,4n,19p,664b,107s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/cm/cmr10.pfb>
-Output written on Abstract.pdf (4 pages, 30281 bytes).
+Output written on Abstract.pdf (5 pages, 33840 bytes).
 PDF statistics:
- 19 PDF objects out of 1000 (max. 8388607)
+ 22 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
