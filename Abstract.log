@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.21)  21 DEC 2017 21:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.21)  22 DEC 2017 10:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -106,12 +106,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--39
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--47
+Underfull \hbox (badness 10000) in paragraph at lines 40--48
 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
+! Undefined control sequence.
+l.49 \chapter
+             {Overview of the characters}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
  []
 
@@ -120,14 +135,14 @@ No file Abstract.bbl.
 Here is how much of TeX's memory you used:
  312 strings out of 494910
  3549 string characters out of 6179835
- 54672 words of memory out of 5000000
+ 55672 words of memory out of 5000000
  3679 multiletter control sequences out of 15000+600000
  6379 words of font info for 23 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  21i,4n,19p,663b,107s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmr10.pfb>
-Output written on Abstract.pdf (5 pages, 32291 bytes).
+Output written on Abstract.pdf (5 pages, 33164 bytes).
 PDF statistics:
  24 PDF objects out of 1000 (max. 8388607)
  15 compressed objects within 1 object stream
