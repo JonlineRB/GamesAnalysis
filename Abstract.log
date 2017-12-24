@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.29)  23 DEC 2017 20:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.29)  24 DEC 2017 10:56
 entering extended mode
 **Abstract.tex
 (Abstract.tex
@@ -116,23 +116,83 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
+! Misplaced alignment tab character &.
+l.67 Ori &
+           Sein\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--58
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--73
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--58
+Underfull \hbox (badness 10000) in paragraph at lines 49--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--73
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 69--70
+! Undefined control sequence.
+l.74 \chapter
+             {Stages}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--90
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
 
  []
 
 No file Abstract.bbl.
-[6] (Abstract.aux) ) 
+[7] (Abstract.aux) ) 
 Here is how much of TeX's memory you used:
  313 strings out of 493673
  3529 string characters out of 3141530
@@ -140,12 +200,12 @@ Here is how much of TeX's memory you used:
  3736 multiletter control sequences out of 15000+200000
  6379 words of font info for 23 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 21i,4n,19p,664b,107s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 21i,5n,19p,664b,107s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/cm/cmr10.pfb>
-Output written on Abstract.pdf (6 pages, 35970 bytes).
+Output written on Abstract.pdf (7 pages, 37587 bytes).
 PDF statistics:
- 25 PDF objects out of 1000 (max. 8388607)
+ 30 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
