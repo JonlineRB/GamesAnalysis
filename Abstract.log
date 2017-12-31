@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.29)  29 DEC 2017 18:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.29)  31 DEC 2017 01:06
 entering extended mode
 **Abstract.tex
 (Abstract.tex
@@ -6,8 +6,8 @@ LaTeX2e <2015/01/01> patch level 2
 Babel <3.9m> and hyphenation patterns for 69 languages loaded.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size11.clo"
-File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -20,33 +20,25 @@ File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cite\cite.sty"
-LaTeX Info: Redefining \cite on input line 302.
-LaTeX Info: Redefining \nocite on input line 332.
-Package: cite 2015/02/27  v 5.5
 ) (Abstract.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 6.
+(Font)              <7> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 6.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 6.
-
+(Font)              <5> on input line 5.
 ! Undefined control sequence.
-l.6 $  $\chapter
+l.5 $  $\chapter
                 {Abstract}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -55,7 +47,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6--11
+Underfull \hbox (badness 10000) in paragraph at lines 5--10
 
  []
 
@@ -63,7 +55,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--11
 
 {C:/Users/jjjoo/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 ! Undefined control sequence.
-l.12 \chapter
+l.11 \chapter
              {Introduction}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -72,12 +64,12 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--23
+Underfull \hbox (badness 10000) in paragraph at lines 11--22
 
  []
 
 ! Misplaced alignment tab character &.
-l.30 3) Community &
+l.29 3) Community &
                     Reception: The competitive scene, the traction the title...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -87,13 +79,13 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--31
+Underfull \hbox (badness 10000) in paragraph at lines 23--30
 
  []
 
 [2] [3]
 ! Undefined control sequence.
-l.33 \chapter
+l.32 \chapter
              {Analysis}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -102,18 +94,18 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--40
+Underfull \hbox (badness 10000) in paragraph at lines 32--39
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--49
+Underfull \hbox (badness 10000) in paragraph at lines 40--48
 
  []
 
 [4]
 ! Undefined control sequence.
-l.50 \chapter
+l.49 \chapter
              {Overview of the characters}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -121,39 +113,29 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-! Misplaced alignment tab character &.
-l.76 Ori &
-           Sein\\
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 55--82
+Underfull \hbox (badness 10000) in paragraph at lines 54--81
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--82
+Underfull \hbox (badness 10000) in paragraph at lines 54--81
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--82
+Underfull \hbox (badness 10000) in paragraph at lines 54--81
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--82
+Underfull \hbox (badness 10000) in paragraph at lines 54--81
 
  []
 
-[5] [6]
+[5]
 ! Undefined control sequence.
-l.83 \chapter
+l.82 \chapter
              {Stages}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -162,24 +144,25 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--86
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--90
+Underfull \hbox (badness 10000) in paragraph at lines 86--89
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 91.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+[6]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 90.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 91.
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 90.
 
 ! You can't use `macro parameter character #' in horizontal mode.
-l.91 \item Law #
+l.90 \item Law #
                  1: Thou shall not touch the golden platforms.
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -187,7 +170,7 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in horizontal mode.
-l.92 \item Law #
+l.91 \item Law #
                  2: Thou shall not touch walls from the sides.
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -195,7 +178,7 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in horizontal mode.
-l.93 \item Law #
+l.92 \item Law #
                  3: Thou shall not Parry or Dodge.
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -203,7 +186,7 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in horizontal mode.
-l.94 \item Law #
+l.93 \item Law #
                  4: Thou shall not touch a living thing (which is where the ...
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -217,18 +200,17 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.97 
+l.96 
      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--110
+Underfull \hbox (badness 10000) in paragraph at lines 97--109
 
  []
 
-[7]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -236,30 +218,30 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.112 \textbf
+l.111 \textbf
              {Merchant Port}\\
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--138
+Underfull \hbox (badness 10000) in paragraph at lines 111--137
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--138
+Underfull \hbox (badness 10000) in paragraph at lines 111--137
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--138
+Underfull \hbox (badness 10000) in paragraph at lines 111--137
 
  []
 
-[8]
+[7]
 ! Undefined control sequence.
-l.139 \chapter
+l.138 \chapter
               {Game modes}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -268,62 +250,62 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--140
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--143
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--147
+Underfull \hbox (badness 10000) in paragraph at lines 143--146
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 147--151
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--152
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--161
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--167
 
  []
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 153--154
+Underfull \hbox (badness 10000) in paragraph at lines 168--171
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 155--157
+Underfull \hbox (badness 10000) in paragraph at lines 172--178
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--162
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 163--168
-
- []
-
-[10]
-Underfull \hbox (badness 10000) in paragraph at lines 169--172
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 173--179
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 180--181
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
 
  []
 
 ! Undefined control sequence.
-l.183 \chapter
+l.182 \chapter
               {Featured art style and music}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -332,22 +314,23 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 185--188
-
- []
-
-[11]
-Underfull \hbox (badness 10000) in paragraph at lines 189--190
+Underfull \hbox (badness 10000) in paragraph at lines 184--187
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--195
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--192
+
+ []
+
+[10]
 ! Undefined control sequence.
-l.196 \chapter
+l.194 \chapter
               {Reception}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -356,7 +339,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.214 \chapter
+l.212 \chapter
               {Community}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -365,12 +348,27 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 217--218
+Underfull \hbox (badness 10000) in paragraph at lines 215--217
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--220
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--224
 
  []
 
 ! Undefined control sequence.
-l.220 \chapter
+l.225 \chapter
               {Pro Scene}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -378,23 +376,48 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-No file Abstract.bbl.
-[12] (Abstract.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+
+ []
+
+[11] (Abstract.bbl
+! You can't use `macro parameter character #' in horizontal mode.
+l.8 ...smash bros melee. the advanced techniques #
+                                                  3 - advanced,'' jun
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Runaway argument?
+! Paragraph ended before \OT1\. was complete.
+<to be read again> 
+                   \par 
+l.14 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+) [12] (Abstract.aux) ) 
 Here is how much of TeX's memory you used:
- 332 strings out of 493673
- 3856 string characters out of 3141530
- 60536 words of memory out of 3000000
- 3751 multiletter control sequences out of 15000+200000
- 6687 words of font info for 24 fonts, out of 3000000 for 9000
+ 239 strings out of 493673
+ 2655 string characters out of 3141530
+ 61455 words of memory out of 3000000
+ 3663 multiletter control sequences out of 15000+200000
+ 4899 words of font info for 18 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 21i,4n,19p,664b,144s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfon
+ 23i,4n,19p,664b,144s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfon
 ts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmsy10.pfb>
-Output written on Abstract.pdf (12 pages, 76633 bytes).
+cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmti10.pfb>
+Output written on Abstract.pdf (12 pages, 98741 bytes).
 PDF statistics:
- 53 PDF objects out of 1000 (max. 8388607)
+ 61 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
