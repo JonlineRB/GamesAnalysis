@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.29)  16 JAN 2018 00:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.29)  16 JAN 2018 00:25
 entering extended mode
 **Abstract.tex
 (Abstract.tex
@@ -319,17 +319,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 195--198
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 199--205
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 206--207
+Underfull \hbox (badness 10000) in paragraph at lines 201--207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
 
  []
 
 ! Undefined control sequence.
-l.209 \chapter
+l.211 \chapter
               {Featured art style and music}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -338,23 +343,22 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 211--214
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 215--216
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 217--219
+Underfull \hbox (badness 10000) in paragraph at lines 213--216
 
  []
 
 [11]
+Underfull \hbox (badness 10000) in paragraph at lines 217--218
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--221
+
+ []
+
 ! Undefined control sequence.
-l.221 \chapter
+l.223 \chapter
               {Reception}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -363,7 +367,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.239 \chapter
+l.241 \chapter
               {Community}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -372,17 +376,12 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 242--244
+Underfull \hbox (badness 10000) in paragraph at lines 244--246
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 245--247
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 248--249
+Underfull \hbox (badness 10000) in paragraph at lines 247--249
 
  []
 
@@ -391,8 +390,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 250--251
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--253
+
+ []
+
 ! Undefined control sequence.
-l.252 \chapter
+l.254 \chapter
               {Pro Scene}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -401,7 +405,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 254--255
+Underfull \hbox (badness 10000) in paragraph at lines 256--257
 
  []
 
@@ -432,7 +436,7 @@ Here is how much of TeX's memory you used:
  3667 multiletter control sequences out of 15000+200000
  5544 words of font info for 20 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 23i,4n,19p,860b,152s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 23i,5n,19p,860b,152s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/am
 sfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsf
 onts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfon
@@ -440,7 +444,7 @@ ts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 mti12.pfb>
-Output written on Abstract.pdf (14 pages, 115946 bytes).
+Output written on Abstract.pdf (14 pages, 116423 bytes).
 PDF statistics:
  72 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
