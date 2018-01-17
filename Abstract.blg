@@ -1,22 +1,19 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: Abstract.aux
-The style file: ieeetr.bst
-Database file #1: Bib.bib
-Warning--entry type for "atomic2017:2" isn't style-file defined
---line 8 of file Bib.bib
+The style file: IEEEtran.bst
+Database file #1: IEEEabrv.bib
+Database file #2: Bib.bib
 I was expecting a `,' or a `}'---line 19 of file Bib.bib
- :     note     = "Note how the controls are all covered from page 10 - 15, under \"
- :                                                                                  Basic Moves\".  The official game manual won't let slip of the many advanced techniques found possible through the community of players!"
+ :     note     = "Note how the controls are all covered from page 10 - 15, under \\"
+ :                                                                                   Basic Moves\\".  The official game manual won't let slip of the many advanced techniques found possible through the community of players!"
 I'm skipping whatever remains of this entry
-Warning--entry type for "reddit:4" isn't style-file defined
---line 21 of file Bib.bib
-Warning--entry type for "twitch:5" isn't style-file defined
---line 27 of file Bib.bib
-Warning--entry type for "steam:6" isn't style-file defined
---line 33 of file Bib.bib
-Warning--entry type for "metacritic:7" isn't style-file defined
---line 39 of file Bib.bib
-Warning--entry type for "eltonjones2017:8" isn't style-file defined
---line 43 of file Bib.bib
-Warning--entry type for "lucassullivan2014:9" isn't style-file defined
---line 50 of file Bib.bib
-(There was 1 error message)
+I was expecting a `,' or a `}'---line 63 of file Bib.bib
+ :     
+ :     howpublished={\url{https://smashboards.com/threads/dan-fornace-from-hobbyist-to-career.441652/}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+
+Done.
+(There were 2 error messages)
