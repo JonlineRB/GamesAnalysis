@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.29)  18 JAN 2018 23:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.29)  19 JAN 2018 00:35
 entering extended mode
 **Abstract.tex
 (Abstract.tex
@@ -420,18 +420,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 255--257
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 258--259
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 260--263
+Underfull \hbox (badness 10000) in paragraph at lines 258--262
 
  []
 
 ! Undefined control sequence.
-l.264 \chapter
-              {Pro Scene}
+l.263 \chapter
+              {Pro Scene}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -439,11 +434,11 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 266--267
+Underfull \hbox (badness 10000) in paragraph at lines 263--265
 
  []
 
-[12] (Abstract.bbl
+[12] [13] (Abstract.bbl
 ! You can't use `macro parameter character #' in horizontal mode.
 l.50 ...mash bros melee. the advanced techniques #
                                                   3 -
@@ -642,7 +637,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 98--101
 []\OT1/cmr/m/n/10 facebook - brawl-halla. [On-line]. Avail-able:
  []
 
-) [13] (Abstract.aux) ) 
+) [14] (Abstract.aux) ) 
 Here is how much of TeX's memory you used:
  256 strings out of 493673
  2906 string characters out of 3141530
@@ -650,7 +645,7 @@ Here is how much of TeX's memory you used:
  3679 multiletter control sequences out of 15000+200000
  5544 words of font info for 20 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 23i,4n,19p,860b,154s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 23i,7n,19p,860b,239s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/am
 sfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsf
 onts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfon
@@ -660,9 +655,9 @@ ts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts
 sy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti
 10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12
 .pfb>
-Output written on Abstract.pdf (14 pages, 140297 bytes).
+Output written on Abstract.pdf (15 pages, 141380 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
+ 83 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
