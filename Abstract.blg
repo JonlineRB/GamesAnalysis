@@ -6,14 +6,9 @@ I was expecting a `,' or a `}'---line 19 of file Bib.bib
  :     note     = "Note how the controls are all covered from page 10 - 15, under \\"
  :                                                                                   Basic Moves\\".  The official game manual won't let slip of the many advanced techniques found possible through the community of players!"
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 63 of file Bib.bib
- :     
- :     howpublished={\url{https://smashboards.com/threads/dan-fornace-from-hobbyist-to-career.441652/}}
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
 -- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
 
 Done.
-(There were 2 error messages)
+(There was 1 error message)

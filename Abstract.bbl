@@ -81,4 +81,22 @@ Metacritic : Rivals of aether. [Online]. Available:
 (2017, dec) Twitch. [Online]. Available: \url{https://www.twitch.tv/}
 \BIBentrySTDinterwordspacing
 
+\bibitem{fb:11}
+\BIBentryALTinterwordspacing
+facebook - rivals of aether. [Online]. Available:
+  \url{https://www.facebook.com/rivalsofaether}
+\BIBentrySTDinterwordspacing
+
+\bibitem{fbs:12}
+\BIBentryALTinterwordspacing
+facebook - smash bros. [Online]. Available:
+  \url{https://www.facebook.com/SmashBrosDE/?brand_redir=542352015851365}
+\BIBentrySTDinterwordspacing
+
+\bibitem{fbb:13}
+\BIBentryALTinterwordspacing
+facebook - brawlhalla. [Online]. Available:
+  \url{https://www.facebook.com/Brawlhalla}
+\BIBentrySTDinterwordspacing
+
 \end{thebibliography}

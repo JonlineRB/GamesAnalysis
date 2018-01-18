@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.29)  17 JAN 2018 14:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.29)  18 JAN 2018 23:45
 entering extended mode
 **Abstract.tex
 (Abstract.tex
@@ -425,12 +425,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 258--259
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 260--261
+Underfull \hbox (badness 10000) in paragraph at lines 260--263
 
  []
 
 ! Undefined control sequence.
-l.262 \chapter
+l.264 \chapter
               {Pro Scene}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -439,7 +439,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 264--265
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
 
  []
 
@@ -589,12 +589,65 @@ Underfull \hbox (badness 2213) in paragraph at lines 70--73
 []\OT1/cmr/m/n/10 Metacritic : Ri-vals of aether. [On-line]. Avail-able:
  []
 
+
+Underfull \hbox (badness 4429) in paragraph at lines 86--89
+[]\OT1/cmr/m/n/10 facebook - ri-vals of aether. [On-line]. Avail-able:
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.93 .../SmashBrosDE/?brand_redir=542352015851365}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.95 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.95 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--95
+[]\OT1/cmr/m/n/10 facebook - smash bros. [On-line]. Avail-able:
+ []
+
+! Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.95 
+     
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--101
+[]\OT1/cmr/m/n/10 facebook - brawl-halla. [On-line]. Avail-able:
+ []
+
 ) [13] (Abstract.aux) ) 
 Here is how much of TeX's memory you used:
- 253 strings out of 493673
- 2883 string characters out of 3141530
+ 256 strings out of 493673
+ 2906 string characters out of 3141530
  61455 words of memory out of 3000000
- 3676 multiletter control sequences out of 15000+200000
+ 3679 multiletter control sequences out of 15000+200000
  5544 words of font info for 20 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  23i,4n,19p,860b,154s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -607,7 +660,7 @@ ts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts
 sy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti
 10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12
 .pfb>
-Output written on Abstract.pdf (14 pages, 138867 bytes).
+Output written on Abstract.pdf (14 pages, 140297 bytes).
 PDF statistics:
  80 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
