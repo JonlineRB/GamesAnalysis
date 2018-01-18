@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.29)  19 JAN 2018 00:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.29)  19 JAN 2018 00:40
 entering extended mode
 **Abstract.tex
 (Abstract.tex
@@ -434,11 +434,26 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--265
+Underfull \hbox (badness 10000) in paragraph at lines 263--266
 
  []
 
-[12] [13] (Abstract.bbl
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--266
+
+ []
+
+[12]
+Overfull \hbox (11.61182pt too wide) in paragraph at lines 269--281
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--281
+
+ []
+
+[13] (Abstract.bbl
 ! You can't use `macro parameter character #' in horizontal mode.
 l.50 ...mash bros melee. the advanced techniques #
                                                   3 -
@@ -655,7 +670,7 @@ ts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts
 sy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti
 10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12
 .pfb>
-Output written on Abstract.pdf (15 pages, 141380 bytes).
+Output written on Abstract.pdf (15 pages, 141433 bytes).
 PDF statistics:
  83 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
