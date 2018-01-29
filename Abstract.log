@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.29)  29 JAN 2018 22:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.29)  29 JAN 2018 22:59
 entering extended mode
 **Abstract.tex
 (Abstract.tex
@@ -334,8 +334,13 @@ File: Rivals-of-Aether.png Graphic file (type png)
 
 <use Rivals-of-Aether.png>
 Package pdftex.def Info: Rivals-of-Aether.png used on input line 32.
-(pdftex.def)             Requested size: 354.07587pt x 199.16928pt.
- [1
+(pdftex.def)             Requested size: 455.2348pt x 256.0748pt.
+
+Overfull \hbox (16.72067pt too wide) in paragraph at lines 32--33
+ [][] 
+ []
+
+[1
 
 {C:/Users/jjjoo/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Rivals-of
 -Aether.png (PNG copy)>]
@@ -428,16 +433,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 86--87
 Underfull \hbox (badness 10000) in paragraph at lines 90--92
 
  []
-
-! Misplaced alignment tab character &.
-l.94 ...t in the form of a playable fighter, Ori &
-                                                   Sein from Microsoft's Ori...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 94--95
@@ -570,17 +565,9 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 
-! LaTeX Error: There's no line here to end.
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.174 
-      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+ []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 175--214
@@ -857,7 +844,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 354.
 Here is how much of TeX's memory you used:
  6057 strings out of 493673
  88247 string characters out of 3141530
- 186640 words of memory out of 3000000
+ 187640 words of memory out of 3000000
  9332 multiletter control sequences out of 15000+200000
  5998 words of font info for 22 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
@@ -868,7 +855,7 @@ Here is how much of TeX's memory you used:
 rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Pro
 gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Progr
 am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Abstract.pdf (14 pages, 1210227 bytes).
+Output written on Abstract.pdf (14 pages, 1210665 bytes).
 PDF statistics:
  169 PDF objects out of 1000 (max. 8388607)
  33 named destinations out of 1000 (max. 500000)
