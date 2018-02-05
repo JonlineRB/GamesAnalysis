@@ -21,9 +21,21 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
+\bibitem{img:19}
+\BIBentryALTinterwordspacing
+ [Online]. Available:
+  \url{https://i.kinja-img.com/gawker-media/image/upload/t_original/jz5gzbbtionbm62um5qh.png}
+\BIBentrySTDinterwordspacing
+
 \bibitem{jeffdunn2012:1}
 J.~Dunn, ``Of fists and fatalities: The history of fighting games,''
   \emph{GamesRadar}, dec 2012.
+
+\bibitem{img:20}
+\BIBentryALTinterwordspacing
+ [Online]. Available:
+  \url{https://i.ytimg.com/vi/aDcTRI8Z-Vk/maxresdefault.jpg}
+\BIBentrySTDinterwordspacing
 
 \bibitem{eltonjones2017:8}
 \BIBentryALTinterwordspacing
@@ -51,6 +63,18 @@ Thirdkoopa. (2016, sep) Dan fornace, from hobbyist to career. [Online].
   \url{https://www.youtube.com/watch?v=LOLu4NpEeWw}
 \BIBentrySTDinterwordspacing
 
+\bibitem{img:21}
+\BIBentryALTinterwordspacing
+ [Online]. Available:
+  \url{https://www.destructoid.com/ul/429193-/ss_2f3c2a1867b906f720fc43be56084c06e93b55c2.1920x1080-noscale.jpg}
+\BIBentrySTDinterwordspacing
+
+\bibitem{img:22}
+\BIBentryALTinterwordspacing
+ [Online]. Available:
+  \url{http://www.rivalsofaether.com/blog/wp-content/uploads/2017/08/tempest-peak.png}
+\BIBentrySTDinterwordspacing
+
 \bibitem{atomic2017:2}
 \BIBentryALTinterwordspacing
 AtomiC. (2017, jun) Super smash bros melee. the advanced techniques #3 -
@@ -63,6 +87,12 @@ AtomiC. (2017, jun) Super smash bros melee. the advanced techniques #3 -
 ------, ``Super smash bros. melee instruction booklet,'' jun 2001, note how the
   controls are all covered from page 10 - 15, under \\. [Online]. Available:
   \url{https://aminoapps.com/c/smash/page/blog/super-smash-bros-melee-the-advanced-techniques-3-advanced/RBfw_u6eVlb10lj8pqqaMb1RlLjjK7}
+\BIBentrySTDinterwordspacing
+
+\bibitem{img:23}
+\BIBentryALTinterwordspacing
+ [Online]. Available:
+  \url{http://www.rivalsofaether.com/presskit/images/custom-colors.png}
 \BIBentrySTDinterwordspacing
 
 \bibitem{steam:6}
@@ -122,6 +152,12 @@ facebook - smash bros. [Online]. Available:
 \BIBentryALTinterwordspacing
 facebook - brawlhalla. [Online]. Available:
   \url{https://www.facebook.com/Brawlhalla}
+\BIBentrySTDinterwordspacing
+
+\bibitem{img:24}
+\BIBentryALTinterwordspacing
+ [Online]. Available:
+  \url{http://shoryuken.com/wp-content/uploads/2016/09/Rivals-Championship-Series.jpg}
 \BIBentrySTDinterwordspacing
 
 \bibitem{esport:14}

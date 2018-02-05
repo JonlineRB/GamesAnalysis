@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.29)  2 FEB 2018 13:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.29)  5 FEB 2018 17:00
 entering extended mode
 **Abstract.tex
 (Abstract.tex
@@ -380,10 +380,10 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.54 \newpage
+l.55 \newpage
               [1 <./galerie-rivals-aether_3.jpg>]
 ! Undefined control sequence.
-l.56 \chapter
+l.57 \chapter
              {\textbf{Introduction}}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -392,22 +392,23 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--66
+Underfull \hbox (badness 10000) in paragraph at lines 57--67
 
  []
 
-<smash.jpg, id=18, 1189.44376pt x 649.42625pt>
+<smash.jpg, id=20, 1189.44376pt x 649.42625pt>
 File: smash.jpg Graphic file (type jpg)
  <use smash.jpg>
-Package pdftex.def Info: smash.jpg used on input line 67.
+Package pdftex.def Info: smash.jpg used on input line 68.
 (pdftex.def)             Requested size: 364.78532pt x 199.16928pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--77
+Underfull \hbox (badness 10000) in paragraph at lines 71--79
 
  []
 
+[2 <./smash.jpg>]
 ! Misplaced alignment tab character &.
-l.82 3) Community &
+l.84 3) Community &
                     Reception: The competitive scene, the traction the title...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -417,13 +418,12 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--83
+Underfull \hbox (badness 10000) in paragraph at lines 80--85
 
  []
 
-[2 <./smash.jpg>]
 ! Undefined control sequence.
-l.84 \chapter
+l.86 \chapter
              {\textbf{Background}}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -432,28 +432,28 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--90
+Underfull \hbox (badness 10000) in paragraph at lines 86--92
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--92
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--97
+Underfull \hbox (badness 10000) in paragraph at lines 97--99
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--100
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
 
  []
 
 [3]
 ! Undefined control sequence.
-l.105 \chapter
+l.107 \chapter
               {\textbf{Analysis}}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -462,18 +462,18 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--112
+Underfull \hbox (badness 10000) in paragraph at lines 107--114
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--121
+Underfull \hbox (badness 10000) in paragraph at lines 115--123
 
  []
 
 [4]
 ! Undefined control sequence.
-l.124 \chapter
+l.126 \chapter
               {\textbf{Overview of the characters}}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -482,32 +482,32 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--125
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
 
  []
 
-<CharacterSelect.jpg, id=40, 1927.2pt x 1084.05pt>
+<CharacterSelect.jpg, id=44, 1927.2pt x 1084.05pt>
 File: CharacterSelect.jpg Graphic file (type jpg)
  <use CharacterSelect.jpg>
-Package pdftex.def Info: CharacterSelect.jpg used on input line 126.
+Package pdftex.def Info: CharacterSelect.jpg used on input line 128.
 (pdftex.def)             Requested size: 354.05626pt x 199.16928pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--149
+Underfull \hbox (badness 10000) in paragraph at lines 132--152
 
  []
 
 [5 <./CharacterSelect.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 150--151
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 152--159
+Underfull \hbox (badness 10000) in paragraph at lines 155--162
 
  []
 
 ! Undefined control sequence.
-l.160 \chapter
+l.163 \chapter
               {\textbf{Stages}}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -516,36 +516,36 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--161
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
 
  []
 
-<tempest.png, id=45, 1927.2pt x 1084.05pt>
+<tempest.png, id=51, 1927.2pt x 1084.05pt>
 File: tempest.png Graphic file (type png)
  <use tempest.png>
-Package pdftex.def Info: tempest.png used on input line 163.
+Package pdftex.def Info: tempest.png used on input line 166.
 (pdftex.def)             Requested size: 354.05626pt x 199.16928pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--167
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--171
+Underfull \hbox (badness 10000) in paragraph at lines 172--175
 
  []
 
 [6 <./tempest.png>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 172.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 176.
 
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 172.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 176.
 
 ! You can't use `macro parameter character #' in horizontal mode.
-l.172 \item Law #
+l.176 \item Law #
                   1: Thou shall not touch the golden platforms.
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -553,7 +553,7 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in horizontal mode.
-l.173 \item Law #
+l.177 \item Law #
                   2: Thou shall not touch walls from the sides.
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -561,7 +561,7 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in horizontal mode.
-l.174 \item Law #
+l.178 \item Law #
                   3: Thou shall not Parry or Dodge.
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -569,7 +569,7 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in horizontal mode.
-l.175 \item Law #
+l.179 \item Law #
                   4: Thou shall not touch a living thing (which is where the...
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -577,22 +577,22 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 177--178
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 179--203
+Underfull \hbox (badness 10000) in paragraph at lines 183--207
 
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 204--218
+Underfull \hbox (badness 10000) in paragraph at lines 208--222
 
  []
 
 ! Undefined control sequence.
-l.219 \chapter
+l.223 \chapter
               {\textbf{Game modes}}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -601,67 +601,67 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 219--220
+Underfull \hbox (badness 10000) in paragraph at lines 223--224
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--223
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--227
+Underfull \hbox (badness 10000) in paragraph at lines 228--231
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 228--230
+Underfull \hbox (badness 10000) in paragraph at lines 232--234
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--233
+Underfull \hbox (badness 10000) in paragraph at lines 235--237
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 234--236
+Underfull \hbox (badness 10000) in paragraph at lines 238--240
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 237--241
+Underfull \hbox (badness 10000) in paragraph at lines 241--245
 
  []
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 242--247
+Underfull \hbox (badness 10000) in paragraph at lines 246--251
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 248--251
+Underfull \hbox (badness 10000) in paragraph at lines 252--255
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 252--253
+Underfull \hbox (badness 10000) in paragraph at lines 256--257
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 254--260
+Underfull \hbox (badness 10000) in paragraph at lines 258--264
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 261--262
+Underfull \hbox (badness 10000) in paragraph at lines 265--266
 
  []
 
 ! Undefined control sequence.
-l.264 \chapter
+l.268 \chapter
               {\textbf{Featured art style and music}}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -670,32 +670,32 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 264--265
+Underfull \hbox (badness 10000) in paragraph at lines 268--269
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 266--269
+Underfull \hbox (badness 10000) in paragraph at lines 270--273
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 270--271
+Underfull \hbox (badness 10000) in paragraph at lines 274--275
 
  []
 
-[9] <custom-colors.png, id=68, 1927.2pt x 1084.05pt>
+[9] <custom-colors.png, id=76, 1927.2pt x 1084.05pt>
 File: custom-colors.png Graphic file (type png)
  <use custom-colors.png>
-Package pdftex.def Info: custom-colors.png used on input line 273.
+Package pdftex.def Info: custom-colors.png used on input line 277.
 (pdftex.def)             Requested size: 354.05626pt x 199.16928pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 276--278
+Underfull \hbox (badness 10000) in paragraph at lines 281--283
 
  []
 
 ! Undefined control sequence.
-l.279 \chapter
+l.284 \chapter
               {\textbf{Reception}}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -704,27 +704,27 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 279--280
+Underfull \hbox (badness 10000) in paragraph at lines 284--285
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 290--292
+Underfull \hbox (badness 10000) in paragraph at lines 295--297
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 292--294
+Underfull \hbox (badness 10000) in paragraph at lines 297--299
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 294--296
+Underfull \hbox (badness 10000) in paragraph at lines 299--301
 
  []
 
 ! Undefined control sequence.
-l.298 \chapter
+l.303 \chapter
               {\textbf{Community}}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -733,32 +733,32 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 298--299
+Underfull \hbox (badness 10000) in paragraph at lines 303--304
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 300--304
+Underfull \hbox (badness 10000) in paragraph at lines 305--309
 
  []
 
 [10 <./custom-colors.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 306--308
+Underfull \hbox (badness 10000) in paragraph at lines 311--313
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--311
+Underfull \hbox (badness 10000) in paragraph at lines 314--316
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 312--316
+Underfull \hbox (badness 10000) in paragraph at lines 317--321
 
  []
 
 ! Undefined control sequence.
-l.317 \chapter
+l.322 \chapter
               {\textbf{Pro Scene}}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -767,34 +767,34 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 317--318
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
 
  []
 
-<Rivals-Championship-Series.jpg, id=89, 564.60938pt x 301.125pt>
+<Rivals-Championship-Series.jpg, id=99, 564.60938pt x 301.125pt>
 File: Rivals-Championship-Series.jpg Graphic file (type jpg)
 
 <use Rivals-Championship-Series.jpg>
-Package pdftex.def Info: Rivals-Championship-Series.jpg used on input line 320.
+Package pdftex.def Info: Rivals-Championship-Series.jpg used on input line 325.
 
 (pdftex.def)             Requested size: 373.45316pt x 199.16928pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 322--324
+Underfull \hbox (badness 10000) in paragraph at lines 328--330
 
  []
 
 [11 <./Rivals-Championship-Series.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 325--326
+Underfull \hbox (badness 10000) in paragraph at lines 331--332
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 329--345
+Underfull \hbox (badness 10000) in paragraph at lines 335--351
 
  []
 
 ! Undefined control sequence.
-l.348 \chapter
+l.354 \chapter
               {\textbf{Conclusion}}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -803,13 +803,24 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 348--352
+Underfull \hbox (badness 10000) in paragraph at lines 354--358
 
  []
 
 [12] (Abstract.bbl
+Underfull \hbox (badness 1215) in paragraph at lines 26--29
+[]\OT1/cmr/m/n/10 [Online]. Avail-able: []$https : / / i . kinja-[]img . com / 
+gawker-[]media / image / upload / t[]original /$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--71
+[]\OT1/cmr/m/n/10 [Online]. Avail-able: []$https : / / www . destructoid . com 
+/ ul / 429193-[] / ss[]$
+ []
+
 ! You can't use `macro parameter character #' in horizontal mode.
-l.56 ...mash bros melee. the advanced techniques #
+l.80 ...mash bros melee. the advanced techniques #
                                                   3 -
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -817,48 +828,54 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 
-Underfull \hbox (badness 2142) in paragraph at lines 56--60
+Underfull \hbox (badness 2142) in paragraph at lines 80--84
 \OT1/cmr/m/n/10 niques 3 - ad-vanced. [On-line]. Avail-able: []$https : / / ami
 noapps . com /$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--60
+Underfull \hbox (badness 10000) in paragraph at lines 80--84
 $\OT1/cmr/m/n/10 c / smash / page / blog / super-[]smash-[]bros-[]melee-[]the-[
 ]advanced-[]techniques-[]3-[]advanced /$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--67
+Underfull \hbox (badness 10000) in paragraph at lines 87--91
 \OT1/cmr/m/n/10 . [On-line]. Avail-able: []$https : / / aminoapps . com / c / s
 mash /$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--67
+Underfull \hbox (badness 10000) in paragraph at lines 87--91
 $\OT1/cmr/m/n/10 page / blog / super-[]smash-[]bros-[]melee-[]the-[]advanced-[]
 techniques-[]3-[]advanced / RBfw[]$
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--162
+[]\OT1/cmr/m/n/10 [Online]. Avail-able: []$http : / / shoryuken . com / wp-[]co
+ntent / uploads / 2016 / 09 /$
+ []
+
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 358.
- [13]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 358.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 364.
+ [13] [14]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 364.
  (Abstract.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 358.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 358.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 364.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 364.
 Package rerunfilecheck Info: File `Abstract.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 358.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 364.
  ) 
 Here is how much of TeX's memory you used:
- 6190 strings out of 493673
- 89701 string characters out of 3141530
- 189807 words of memory out of 3000000
- 9460 multiletter control sequences out of 15000+200000
+ 6203 strings out of 493673
+ 89822 string characters out of 3141530
+ 192981 words of memory out of 3000000
+ 9466 multiletter control sequences out of 15000+200000
  6351 words of font info for 23 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 29i,10n,43p,884b,375s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,11n,43p,884b,375s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/P
@@ -866,9 +883,9 @@ rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Pro
 gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Progr
 am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program
  Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Abstract.pdf (14 pages, 1220715 bytes).
+Output written on Abstract.pdf (15 pages, 1226769 bytes).
 PDF statistics:
- 173 PDF objects out of 1000 (max. 8388607)
- 33 named destinations out of 1000 (max. 500000)
+ 202 PDF objects out of 1000 (max. 8388607)
+ 40 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
